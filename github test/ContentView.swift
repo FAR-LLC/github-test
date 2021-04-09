@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         Text("Hello, second version    amol!")
             .padding()
-            .background(Color .green)
+            .background(Color .orange)
         
         
 
