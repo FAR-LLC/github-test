@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, second version    amol!")
+        Text("Hello, second version -1   amol!")
             .padding()
             .background(Color .orange)
         
